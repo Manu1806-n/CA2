@@ -17,7 +17,7 @@ Footer Gray Text:   #cccccc
 */
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
   color: #666666;
   -webkit-font-smoothing: antialiased;
@@ -26,7 +26,7 @@ body {
 }
 
 textarea {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
